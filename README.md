@@ -1,3 +1,17 @@
+Repository Contents
+
+1. Closed-Flow Accounting Spreadsheet 
+– implementation of the transaction-matrix accounting framework described in the accompanying paper.
+
+2. LAMBDA (Part 1: Concepts & Context) 
+– introduction to spreadsheet functional programming and the theoretical foundations of LAMBDA functions.  
+
+3. Practical LAMBDA Programming (Part 2: Applications & Practice) 
+– practical guide to LET, LAMBDA, MAP, REDUCE, SCAN, recursion, and function-library design patterns used in the spreadsheet implementation.  
+
+Together these materials document the computational architecture underlying the spreadsheet implementation of the closed-flow accounting framework.
+
+
 Quick Start
 
 This workbook demonstrates a multiperiod accounting system represented in a single transaction table. From the transaction history, the workbook automatically generates:
