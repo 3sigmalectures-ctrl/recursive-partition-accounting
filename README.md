@@ -1,6 +1,6 @@
 Repository Contents
 
-1. Closed-Flow Accounting Spreadsheet 
+1. Closed-Flow Accounting Spreadsheet [single-table-double-entry-accounting_V10.xlsx]
 – implementation of the transaction-matrix accounting framework described in the accompanying paper.
 
 2. LAMBDA (Part 1: Concepts & Context) 
