@@ -1,7 +1,6 @@
 # SINGLE MATRIX Accounting
 
-This repository contains an Excel implementation of the Recursive Partition Accounting framework together with supporting documentation and introductory tutorials on modern Excel programming using **LAMBDA** and **LET**.   The Excel file uses LET functions. It does not use LAMBDA functions.  LET functions are part of the LAMBDA suite of functions.
-
+This repository contains an Excel implementation of the Recursive Partition Accounting framework together with supporting documentation and introductory tutorials on modern Excel programming using **LAMBDA** and **LET**.   The Excel file uses LET functions. It does not use LAMBDA functions.  The LET function was introduced alongside LAMBDA and the dynamic array functions as part of the major enhancement to Excel’s functional programming capabilities between approximately 2020 and 2023.
 ## Repository Contents
 
 ### SINGLE-MATRIX.xlsx
