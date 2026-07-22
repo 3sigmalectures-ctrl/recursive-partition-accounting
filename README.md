@@ -1,6 +1,6 @@
 # Recursive Partition Accounting
 
-This repository contains an Excel implementation of the Recursive Partition Accounting framework together with supporting documentation and introductory tutorials on modern Excel programming using **LAMBDA** and **LET**.
+This repository contains an Excel implementation of the Recursive Partition Accounting framework together with supporting documentation and introductory tutorials on modern Excel programming using **LAMBDA** and **LET**.   This file uses LET functions. It does not use LAMBDA functions.
 
 ## Repository Contents
 
