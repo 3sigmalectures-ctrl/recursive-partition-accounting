@@ -6,7 +6,7 @@ This repository contains an Excel implementation of the Recursive Partition Acco
 
 ### SINGLE-MATRIX.xlsx
 
-The primary Excel workbook implementing the Recursive Partition Accounting framework. The workbook makes extensive use of Excel's **LAMBDA** and **LET** functions to demonstrate a functional programming approach to spreadsheet-based accounting.
+The primary Excel workbook implementing the Recursive Partition Accounting framework. The workbook makes  use of Excel's  **LET** function.  Excel's LET Function is part of Excel's LABMDA suite of functions.
 
 ### user_guide_acc_xls.pdf
 
