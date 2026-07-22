@@ -1,53 +1,27 @@
-Closed-Flow Accounting Workbook
+# Recursive Partition Accounting
 
-This repository contains an Excel implementation of the transaction-matrix framework developed in the accompanying accounting papers.
+This repository contains an Excel implementation of the Recursive Partition Accounting framework together with supporting documentation and introductory tutorials on modern Excel programming using **LAMBDA** and **LET**.
 
-Repository Contents
+## Repository Contents
 
-Workbook
+### SINGLE-MATRIX.xlsx
 
-single-table-double-entry-accounting_V10.xlsx
+The primary Excel workbook implementing the Recursive Partition Accounting framework. The workbook makes extensive use of Excel's **LAMBDA** and **LET** functions to demonstrate a functional programming approach to spreadsheet-based accounting.
 
-Implements a multi-period accounting system using a transaction-matrix representation. The workbook contains both single-entry and double-entry representations together with automatically generated financial reports.
+### user_guide_acc_xls.pdf
 
-Documentation
+User guide for **SINGLE-MATRIX.xlsx**. Describes the structure of the workbook and explains how to use its features.
 
-Excel Single-Table Multi-Period Accounting Workbook: User Guide
+LAMBDA functions documentation are included 
 
-Provides a complete description of the workbook, including:
+### LAMBDA_Deck_1_v3.pdf
 
-* Workbook structure
-* Chart of accounts
-* Transaction labels
-* Single-entry and double-entry transaction matrices
-* Report generation
-* Journal and ledger views
-* Spreadsheet implementation details
+An introductory presentation on Excel **LAMBDA** functions. Covers the fundamental concepts required to begin writing custom functions in Excel.
 
-Supplemental References
+### LAMBDA_Deck_2_v3.pdf
 
-LAMBDA (Part 1: Concepts & Context)
+A continuation of **LAMBDA Deck 1**. Introduces additional LAMBDA programming concepts, including **LET**, **MAP**, **REDUCE**, **SCAN**, recursion, function libraries, and the functional programming model used throughout the spreadsheet implementation.
 
-Introduction to spreadsheet functional programming and the theoretical foundations of LAMBDA functions.
+### LICENSE
 
-Practical LAMBDA Programming (Part 2: Applications & Practice)
-
-Practical guide to LET, LAMBDA, MAP, REDUCE, SCAN, recursion, and function-library design patterns.
-
-Quick Start
-
-1. Open single-table-double-entry-accounting_V10.xlsx.
-2. Open the DOUBLE-ENTRY-SYSTEM worksheet.
-3. Select a reporting point using the Select Report column.
-4. Review the generated:
-    * Account Positions
-    * Income Statement
-    * Balance Sheet
-
-Financial reports may be generated at any transaction point within the accounting history.
-
-Additional Documentation
-
-For complete instructions and a detailed discussion of the workbook structure, see:
-
-Excel Single-Table Multi-Period Accounting Workbook: User Guide
+The license governing the use, modification, and distribution of the contents of this repository.
